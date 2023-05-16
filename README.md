@@ -6,19 +6,19 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- 🔭 I’m currently working on [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
+- 🔭 I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
 
 - 🌱 I’m currently learning **Tailwind and PostgreSQL**
 
 - 👯 I’m looking to collaborate on **any projects in React.JS or Flask**
 
-- 📝 I regularly post my writing on [https://medium.com/@grace.nieboer](https://medium.com/@grace.nieboer)
+- 📝 I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
 - 💬 Ask me about **React.JS, Flask, Web scraping**
 
-- 📫 How to reach me **grace.nieboer@outlook.com**
+- 📫 Reach me here **grace.nieboer@outlook.com**
 
-- 📄 My experience is here [https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
+- 📄 My experience is here [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
 - ⚡ Fun fact **I make a MEAN margherita pizza**
 
