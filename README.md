@@ -1,7 +1,10 @@
-### Welcome, come on in 👋
+### <em>HI & WELCOME! <em>
 
-<h1 align="center">Hey there! I'm Grace, welcome to my github space!</h1>
-<h3 align="center">Passionate architect of creative solution, full stack software engineer, and avid pizza-tosser from New York</h3>
+![Grace Nieboer](https://github.com/gnieb/gnieb/assets/116698551/c4deb66c-f034-4aa2-aebe-9c6f9c967485)
+
+
+<h1 align="center"><em>HI AND WELCOME!<em></h1>
+<h3 align="center">Passionate architect of creative solutions</h3>
 
 - 🔭 I’m currently working on [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
 
