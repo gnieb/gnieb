@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome, come on in 👋
 
-<h1 align="center">Hi 👋, I'm Grace Nieboer!</h1>
+<h1 align="center">Hey there! I'm Grace, welcome to my github space!</h1>
 <h3 align="center">Passionate architect of creative solution, full stack software engineer, and avid pizza-tosser from New York</h3>
 
 - 🔭 I’m currently working on [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **any projects in React.JS or Flask**
 
-- 📝 I regularly write articles on [https://medium.com/@grace.nieboer](https://medium.com/@grace.nieboer)
+- 📝 I regularly post my writing on [https://medium.com/@grace.nieboer](https://medium.com/@grace.nieboer)
 
 - 💬 Ask me about **React.JS, Flask, Web scraping**
 
 - 📫 How to reach me **grace.nieboer@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
+- 📄 My experience is here [https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
-- ⚡ Fun fact **I make a mean margherita pizza**
+- ⚡ Fun fact **I make a MEAN margherita pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
