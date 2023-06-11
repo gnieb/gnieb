@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
 
-- 🌱 I’m currently learning **Tailwind and PostgreSQL**
+- 🌱 I’m currently learning **React Native on iOS**
 
 - 👯 I’m looking to collaborate on **any projects in React.JS or Flask**
 
