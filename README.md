@@ -1,5 +1,3 @@
-### <em>HI & WELCOME! <em>
-
 ![Grace Nieboer](https://github.com/gnieb/gnieb/assets/116698551/c4deb66c-f034-4aa2-aebe-9c6f9c967485)
 
 
