@@ -6,17 +6,15 @@
 
 - 🔭 I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
 
-- 🌱 I’m currently learning **React Native on iOS**
-
-- 👯 I'd love to collaborate on **any projects in React.JS or Flask**
+- 🌱 I’m currently learning **JAVA && React Native on iOS**
 
 - 📝 I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
-- 💬 Ask me about **React, Flask, Web scraping**
+- 💬 Ask me about **React, Web scraping**
 
-- 📫 Email me here **grace.nieboer@outlook.com**
+- 📫 Email me here @ **grace.nieboer@outlook.com**
 
-- 📄 My experience is here [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
+- 📄 Experience here [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
 - ⚡ Fun fact **I make a MEAN margherita pizza**
 
