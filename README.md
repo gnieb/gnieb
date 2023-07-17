@@ -4,19 +4,19 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- 🔭 I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
+- ⚡ I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
 
-- 🌱 I’m currently learning **JAVA && React Native on iOS**
+- ⚡ I’m currently learning **JAVA && React Native on iOS**
 
-- 📝 I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
+- ⚡ I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
-- 💬 Ask me about **React, Web scraping**
+- ⚡ Ask me about **React, Web scraping**
 
-- 📫 Email me here @ **grace.nieboer@outlook.com**
+- ⚡ Email me @ **grace.nieboer@outlook.com**
 
-- 📄 Experience here [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
+- ⚡ Experience here [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
-- ⚡ Fun fact **I make a MEAN margherita pizza**
+- ⚡ When I'm not coding, you'll find me **kickboxing** or eating **pizza** ⚡
 
 ## CONNECT WITH ME :)
 <p align="left">
@@ -38,5 +38,5 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=gnieb&theme=discord&title=Repositories,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
