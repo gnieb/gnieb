@@ -4,7 +4,7 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- ⚡ I’m currently working on deploying [INSPIRED INTERIORS](https://github.com/gnieb/interior-design-board)
+- ⚡ I’m currently working on deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
 
 - ⚡ I’m currently learning **JAVA && React Native on iOS**
 
