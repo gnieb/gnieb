@@ -14,7 +14,7 @@
 
 - ⚡ Email me @ **grace.nieboer@outlook.com**
 
-- ⚡ [My RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
+- ⚡ [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
 - ⚡ When I'm not coding, you'll find me **kickboxing** or eating **pizza** ⚡
 
