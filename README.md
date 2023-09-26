@@ -1,4 +1,6 @@
-![Grace Nieboer](https://github.com/gnieb/gnieb/assets/116698551/c4deb66c-f034-4aa2-aebe-9c6f9c967485)
+
+![github-grace](https://github.com/gnieb/gnieb/assets/116698551/939d1c8d-8359-47e3-a462-eeedd4689efc)
+
 
 
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
