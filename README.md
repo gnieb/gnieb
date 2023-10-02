@@ -8,7 +8,7 @@
 
 - ⚡ I’m currently working on deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
 
-- ⚡ I’m currently learning: **JAVA**, **TYPESCRIPT**, and **REACT NATIVE**
+- ⚡ I’m currently learning: **TYPESCRIPT** && **REACT NATIVE**
 
 - ⚡ I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
