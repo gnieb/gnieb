@@ -7,7 +7,7 @@
 <h3 align="center">Passionate architect of creative solutions</h3>
 
 - ⚡ I just finished deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
-- 
+
 - ⚡ I’m currently working on a personal project built to help get wedding planning under control - [VOWVIBE](https://github.com/gnieb/vow-vibe)
 
 - ⚡ Currently learning: **TYPESCRIPT** && **REACT NATIVE**
