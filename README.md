@@ -6,9 +6,11 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- ⚡ I’m currently working on deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
+- ⚡ I just finished deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
+- 
+- ⚡ I’m currently working on a personal project built to help get wedding planning under control - [VOWVIBE](https://github.com/gnieb/vow-vibe)
 
-- ⚡ I’m currently learning: **TYPESCRIPT** && **REACT NATIVE**
+- ⚡ Currently learning: **TYPESCRIPT** && **REACT NATIVE**
 
 - ⚡ I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
@@ -18,7 +20,7 @@
 
 - ⚡ [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
-- ⚡ When I'm not coding, you'll find me **kickboxing** or eating **pizza** ⚡
+- ⚡ When I'm not coding, you'll find me **kickboxing** or **thrifting** ⚡
 
 ## CONNECT WITH ME :)
 <p align="left">
