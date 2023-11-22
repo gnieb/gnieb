@@ -38,7 +38,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnieb&" alt="gnieb" /></p>
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gnieb&theme=discord&title=Repositories,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=gnieb&theme=discord&title=Repositories,Commits,Followers)](https://github.com/ryo-ma/github-profile-trophy)
   
 
 
