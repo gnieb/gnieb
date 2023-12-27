@@ -8,7 +8,7 @@
 
 - ⚡ I just finished deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
 
-- ⚡ I’m currently working on a personal project built to help get wedding planning under control - [VOWVIBE](https://github.com/gnieb/vow-vibe)
+- ⚡ I’m currently working on a personal project that will take the nightmare out of choosing where we go get food - [DATE NIGHT](https://github.com/gnieb/datenight)
 
 - ⚡ Currently learning: **TYPESCRIPT** && **REACT NATIVE**
 
