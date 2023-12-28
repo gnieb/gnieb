@@ -8,7 +8,7 @@
 
 - ⚡ I just finished deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
 
-- ⚡ I’m currently working on a personal project that will take the nightmare out of choosing where we go get food - [DATE NIGHT](https://github.com/gnieb/datenight)
+- ⚡ I’m currently working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
 
 - ⚡ Currently learning: **TYPESCRIPT** && **REACT NATIVE**
 
