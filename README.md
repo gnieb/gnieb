@@ -6,7 +6,7 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- ⚡ I just finished deploying my [PORTFOLIO](https://github.com/gnieb/grace-nieboer-portfolio)
+- ⚡ I just finished deploying my [PORTFOLIO](https://gracenieboer.netlify.app)
 
 - ⚡ I’m currently working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
 
