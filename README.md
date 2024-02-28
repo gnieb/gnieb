@@ -6,9 +6,11 @@
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
 
-- ⚡ I just finished deploying my [PORTFOLIO](https://gracenieboer.netlify.app)
+- ⚡ Check out my [PORTFOLIO](https://gracenieboer.netlify.app) 👀 👀 where I post new projects 👀 👀
 
-- ⚡ I’m currently working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
+- ⚡ Professionally I am currently working on a Project for a Client's business - see the progress [HERE]() 
+  
+- ⚡ FOR FUN - working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
 
 - ⚡ Currently learning: **TYPESCRIPT** && **REACT NATIVE**
 
