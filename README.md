@@ -8,7 +8,7 @@
 
 - ⚡ Check out my [PORTFOLIO](https://gracenieboer.netlify.app) 👀 👀 where I post new projects 👀 👀
 
-- ⚡ Professionally I am currently working on a Project for a Client's business - see the progress [HERE]() 
+- ⚡ Professionally I am currently working on a Project for a Client's business - see the progress [HERE](https://github.com/gnieb/tyler) 
   
 - ⚡ FOR FUN - working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
 
