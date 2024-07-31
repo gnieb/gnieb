@@ -12,7 +12,7 @@
   
 - ⚡ FOR FUN - working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
 
-- ⚡ Currently learning: **C#** && **AWS**
+- ⚡ Currently learning: **C#** && **AWS** && **noSQL**
 
 - ⚡ I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
 
