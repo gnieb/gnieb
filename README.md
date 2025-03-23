@@ -8,13 +8,11 @@
 
 - ⚡ Check out my [PORTFOLIO](https://gracenieboer.netlify.app) 👀 👀 where I post new projects 👀 👀
 
-- ⚡ PROFESIONALLY I am currently working on a Project for a Client's business - see the live deployment [HERE](https://tylerstreesolutions.netlify.app)
+- ⚡ PROFESIONALLY I am currently working as a full stack software engineer @ Wilmac Technologies to build solutions that solve pressing customer interaction problems.
   
-- ⚡ FOR FUN - working on a React Native ios app that will take the decision nightmare out of any time with my partner / friends - [DATE NIGHT](https://github.com/gnieb/datenight)
+- ⚡ FOR FUN - working on a few different online presence projects for friends & clients 
 
-- ⚡ Currently learning: **C#** && **AWS** && **noSQL** && **.NET**
-
-- ⚡ I regularly post my writing on [MEDIUM](https://medium.com/@grace.nieboer)
+- ⚡ Currently learning: **C#** && **AWS** && **.NET**
 
 - ⚡ Ask me about **React, Web scraping**
 
