@@ -1,7 +1,5 @@
 
-![github-grace](https://github.com/gnieb/gnieb/assets/116698551/939d1c8d-8359-47e3-a462-eeedd4689efc)
-
-
+![intro](./moodboard.png)
 
 <h1 align="center"><em>HI AND WELCOME!<em></h1>
 <h3 align="center">Passionate architect of creative solutions</h3>
