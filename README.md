@@ -6,11 +6,11 @@
 
 - ⚡ Check out my [PORTFOLIO](https://gracenieboer.netlify.app) 👀 👀 where I post new projects 👀 👀
 
-- ⚡ PROFESIONALLY I am currently working as a full stack software engineer @ Wilmac Technologies to build solutions that solve pressing customer interaction problems.
+- ⚡ PROFESIONALLY I am currently working as a full stack software engineer @ Wilmac Technologies to help build solutions that solve customer interaction problems.
   
 - ⚡ FOR FUN - working on a few different online presence projects for friends & clients 
 
-- ⚡ Currently learning: **C#** && **AWS** && **.NET**
+- ⚡ Currently learning: **C#** && pursuing the next **AWS** certification
 
 - ⚡ Ask me about **React, Web scraping**
 
